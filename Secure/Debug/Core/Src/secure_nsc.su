@@ -1,0 +1,2 @@
+../Core/Src/secure_nsc.c:51:20:SECURE_RegisterCallback	16	static
+../Core/Src/secure_nsc.c:70:20:Secure_led_control	8	static
