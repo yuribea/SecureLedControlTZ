@@ -1,0 +1,15 @@
+/Debug/
+/Release/
+/*.launch
+*.o
+*.elf
+*.map
+*.bin
+
+# IDE settings
+/.settings/
+/*.project
+/*.cproject
+
+# STM32CubeIDE backup files
+*.bak
